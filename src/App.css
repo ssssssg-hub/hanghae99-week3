@@ -1,0 +1,71 @@
+/* .layout {
+  max-width: 1200px;
+  min-width: 800px;
+  position: absolute;
+  left: 50%;
+  top: 0;
+  transform: translate(-50%, 0px);
+}
+
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 15px;
+}
+
+.form {
+  background-color: whitesmoke;
+  padding: 25px 20px 25px 20px;
+  border-radius: 10px;
+  margin-bottom: 10px;
+}
+
+.form > input {
+  border: 1px;
+  border-radius: 5px;
+  padding: 10px 25px 10px 25px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.form > .add {
+  float: right;
+  padding: 10px 30px 10px 30px;
+  border-radius: 10px;
+  background-color: green;
+  border: 0px;
+}
+
+.title {
+  padding: 20px;
+  font-size: large;
+}
+.todo {
+  margin: 15px;
+  padding: 25px;
+  padding-top: 0px;
+  border: 3px solid green;
+  border-radius: 10px;
+  width: 200px;
+  height: 150px;
+}
+
+.todo > .btn > .btn1 {
+  margin-right: 10px;
+  margin-top: 15px;
+  display: inline-block;
+  padding: 5px 20px 5px 20px;
+  border-radius: 10px;
+  border: 2px solid red;
+  background-color: white;
+}
+.todo > .btn > .btn2 {
+  margin-left: 30px;
+  display: inline-block;
+  padding: 5px 20px 5px 20px;
+  border-radius: 10px;
+  border: 2px solid blue;
+  background-color: white;
+}
+ */
